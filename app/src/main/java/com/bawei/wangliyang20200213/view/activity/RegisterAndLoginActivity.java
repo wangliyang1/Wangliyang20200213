@@ -29,7 +29,7 @@ public class RegisterAndLoginActivity extends BaseActivity<ReAndLoginPresenter> 
     Button nLogin;
     @BindView(R.id.n_register)
     Button nRegister;
-//
+//nihaoya
     @Override
     protected ReAndLoginPresenter provitePresenter() {
         return new ReAndLoginPresenter();
